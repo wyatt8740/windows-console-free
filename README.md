@@ -14,3 +14,8 @@ prevent your chosen software from opening a pointless console window.
 I would have killed for something like this in 2013, before I really knew
 anything worth writing home about regarding C programming or the Windows API.
 Unix really spoils me, sometimes.
+
+Only tested so far in Windows XP SP3 (air gapped, before you ask). I made this
+while trying to revitalize an old Dell Latitude D610 and make it a little more
+comfortable. I think it should work on later versions of Windows as well; it
+may also work in Win2K and Windows 98, for all I know.
