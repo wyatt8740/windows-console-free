@@ -19,3 +19,6 @@ Only tested so far in Windows XP SP3 (air gapped, before you ask). I made this
 while trying to revitalize an old Dell Latitude D610 and make it a little more
 comfortable. I think it should work on later versions of Windows as well; it
 may also work in Win2K and Windows 98, for all I know.
+
+Now (in May 2022) should work more intuitively (no need to make the entire
+command to run a single string argument).
